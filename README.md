@@ -1,14 +1,4 @@
 # 4punkte.github.io
----
-name: HomeStart
-title: rabesde-grafitti
-date: 2019-05-29
-categories: htmlroot
-permalink: index.html
-start_rechts: publ/categories_short.html
-start_menue:  publ/coverstory.html
----
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
    "http://www.w3.org/TR/html4/frameset.dtd">
 <html>
