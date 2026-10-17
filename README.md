@@ -3,8 +3,8 @@
    "http://www.w3.org/TR/html4/frameset.dtd">
 <html>
 	<head>
-		<!-- <title>{{ page.name }}|{{ page.title }}</title> -->
-		<title>{{ page.title }}</title>
+		
+		<title>17.10.26</title>
 		<link rel="shortcut icon" href="4punkte-yed-grafik-ico2.ico" />	
 		
 		<base target="frame2">
